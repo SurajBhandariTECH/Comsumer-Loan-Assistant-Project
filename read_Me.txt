@@ -1,3 +1,6 @@
+/**
+*Consumer Loan Assistant
+*/
 package com.loan;
 
 import javax.swing.*;
