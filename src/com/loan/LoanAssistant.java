@@ -44,6 +44,10 @@ public class LoanAssistant {
 			}
 		});
 	}
+	
+	/**
+	 * Create the application.
+	 */
 	public LoanAssistant() {
 		initialize();
 	}
