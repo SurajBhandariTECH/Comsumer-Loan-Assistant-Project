@@ -45,6 +45,8 @@ public class LoanAssistant {
 		});
 	}
 
+	
+	
 	/**
 	 * Create the application.
 	 */
